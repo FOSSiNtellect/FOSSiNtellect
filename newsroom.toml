@@ -1,0 +1,59 @@
+# ═══════════════════════════════════════════════════════════════════════
+#  THE NEWSROOM: everything printed on the FOSSiNtellect profile.
+#
+#  Edit this file and push. GitHub Actions (the "presses") then reprints
+#  README.md and assets/*.svg, and does it again every Monday with the
+#  new week's date and live GitHub figures. To print locally:
+#
+#      python press/press.py
+#
+#  Don't hand-edit README.md or assets/: they're overwritten on each run.
+# ═══════════════════════════════════════════════════════════════════════
+
+[paper]
+login    = "FOSSiNtellect"                  # GitHub user the figures are read from
+title    = "The FOSSiNtellect"              # the masthead
+motto    = "All the Code That’s Fit to Fork."
+price    = "PRICE: FREE (AS IN FREEDOM)"
+founded  = 2025-02-06                       # Vol. and No. are counted from this day
+utc_offset = "+05:30"                       # the date line follows this time zone
+
+[lead]
+kicker   = "EXCLUSIVE"
+headline = "AI TOOLS, FREE FOR ALL"
+deck     = "An independent workshop builds machine-learning tools in the open, and every line of source is yours to read, run and fork"
+byline   = "BY THE FOSSiNtellect DESK"
+story = [
+  "A new name has appeared on the open-source beat, and it is giving its work away. FOSSiNtellect builds tools for artificial intelligence, from language-model apps and agents to data pipelines, and publishes every one of them in full, under licenses that let anyone read, run, study and improve the code.",
+  "No black boxes, no paywalls, no fine print. Work happens chiefly in Python, with TypeScript for the interfaces and Docker to ship it all. Readers are invited to follow along, file issues and send pull requests.",
+]
+
+# Handwritten in blue pen in the margins. Set one to "" to leave it out.
+[notes]
+masthead = "that’s me!"
+date     = "fresh edition every week"
+stack    = "my daily drivers"
+
+# TOOLS OF THE TRADE. outlook: bullish, rising, steady, hold or bearish.
+[desk]
+stack = [
+  { name = "Python",     sector = "AI · Backend",   outlook = "bullish" },
+  { name = "TypeScript", sector = "Interfaces",     outlook = "bullish" },
+  { name = "JavaScript", sector = "The Web",        outlook = "steady"  },
+  { name = "Docker",     sector = "Shipping",       outlook = "rising"  },
+  { name = "Linux",      sector = "Home Turf",      outlook = "hold"    },
+  { name = "Git",        sector = "Record-Keeping", outlook = "steady"  },
+]
+
+# NOW IN PRINT. Leave `featured` empty to show your most-starred public
+# repositories automatically, or list repo names to choose them yourself.
+[press]
+featured = []
+limit    = 4
+
+# CLASSIFIEDS. Each contact you fill in gets its own ad; empty ones are skipped.
+[classifieds]
+linkedin = ""   # full URL, e.g. "https://www.linkedin.com/in/your-handle"
+email    = ""   # e.g. "hello@example.com"
+x        = ""   # handle without the @, e.g. "fossintellect"
+website  = ""   # full URL, e.g. "https://fossintellect.dev"
