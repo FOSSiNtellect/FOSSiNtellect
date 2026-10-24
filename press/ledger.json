@@ -1,7 +1,18 @@
 {
- "repos": 0,
+ "repos": 1,
  "stars": 0,
  "followers": 0,
- "contributions": 0,
- "projects": []
+ "contributions": 2,
+ "projects": [
+  {
+   "name": "FOSSiNtellect",
+   "description": "The FOSSiNtellect: a newspaper-style profile, reprinted every week by GitHub Actions",
+   "url": "https://github.com/FOSSiNtellect/FOSSiNtellect",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-24T12:14:18Z",
+   "archived": false,
+   "language": "Python"
+  }
+ ]
 }

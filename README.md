@@ -33,7 +33,7 @@ No black boxes, no paywalls, no fine print. Work happens chiefly in Python, with
 
 **Tools of the trade:** Python (AI · Backend) · TypeScript (Interfaces) · JavaScript (The Web) · Docker (Shipping) · Linux (Home Turf) · Git (Record-Keeping)
 
-**The figures, Oct. 19, 2026:** 0 public repositories · 0 stars · 0 followers · 0 contributions in the past year
+**The figures, Oct. 19, 2026:** 1 public repositories · 0 stars · 0 followers · 2 contributions in the past year
 
 **Now in print:**
 
