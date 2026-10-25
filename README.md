@@ -5,7 +5,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-print.svg"><img src="assets/section-print.svg" width="100%" alt="Now in print"></picture>
 
-<a href="https://github.com/FOSSiNtellect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/print-empty.svg"><img src="assets/print-empty.svg" width="100%" alt="Stop the presses: the first releases are being typeset. Follow to be first in line."></picture></a>
+<a href="https://github.com/FOSSiNtellect/foresight-wing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/print-1.svg"><img src="assets/print-1.svg" width="49%" alt="foresight-wing: Local-first meeting companion and knowledge hub for Windows, on Gemma 4, EmbeddingGemma 2 and Parakeet via Ollama. Every model runs on your own PC."></picture></a>
+<a href="https://github.com/FOSSiNtellect/gemma-embeddings-book"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/print-2.svg"><img src="assets/print-2.svg" width="49%" alt="gemma-embeddings-book: Gemma Embeddings in Practice: a concise guide to EmbeddingGemma, search, RAG, evaluation, and production, with an executed notebook and the Foresight Wing case study."></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-classifieds.svg"><img src="assets/section-classifieds.svg" width="100%" alt="Classifieds"></picture>
 
@@ -20,7 +21,7 @@
 <summary><b>Read the plain-text edition</b> (for screen readers, small screens and search engines)</summary>
 
 ### The FOSSiNtellect
-*All the Code That’s Fit to Fork.* · Vol. II, No. 90 · Week of October 19, 2026
+*All the Code That’s Fit to Fork.* · Vol. II, No. 91 · Week of October 26, 2026
 
 #### AI TOOLS, FREE FOR ALL
 *An independent workshop builds machine-learning tools in the open, and every line of source is yours to read, run and fork.*
@@ -33,11 +34,12 @@ No black boxes, no paywalls, no fine print. Work happens chiefly in Python, with
 
 **Tools of the trade:** Python (AI · Backend) · TypeScript (Interfaces) · JavaScript (The Web) · Docker (Shipping) · Linux (Home Turf) · Git (Record-Keeping)
 
-**The figures, Oct. 19, 2026:** 1 public repositories · 0 stars · 0 followers · 2 contributions in the past year
+**The figures, Oct. 26, 2026:** 3 public repositories · 0 stars · 0 followers · 19 contributions in the past year
 
 **Now in print:**
 
-- The first releases are being typeset. Follow to be first in line.
+- [foresight-wing](https://github.com/FOSSiNtellect/foresight-wing): Local-first meeting companion and knowledge hub for Windows, on Gemma 4, EmbeddingGemma 2 and Parakeet via Ollama. Every model runs on your own PC.
+- [gemma-embeddings-book](https://github.com/FOSSiNtellect/gemma-embeddings-book): Gemma Embeddings in Practice: a concise guide to EmbeddingGemma, search, RAG, evaluation, and production, with an executed notebook and the Foresight Wing case study.
 
 **Classifieds:** [Wanted contributors](https://github.com/FOSSiNtellect?tab=repositories) · [Subscribe today · free forever](https://github.com/FOSSiNtellect)
 

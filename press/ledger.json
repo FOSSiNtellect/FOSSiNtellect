@@ -1,16 +1,36 @@
 {
- "repos": 1,
+ "repos": 3,
  "stars": 0,
  "followers": 0,
- "contributions": 2,
+ "contributions": 19,
  "projects": [
+  {
+   "name": "gemma-embeddings-book",
+   "description": "Gemma Embeddings in Practice: a concise guide to EmbeddingGemma, search, RAG, evaluation, and production, with an executed notebook and the Foresight Wing case study.",
+   "url": "https://github.com/FOSSiNtellect/gemma-embeddings-book",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-24T17:37:10Z",
+   "archived": false,
+   "language": "Jupyter Notebook"
+  },
+  {
+   "name": "foresight-wing",
+   "description": "Local-first meeting companion and knowledge hub for Windows, on Gemma 4, EmbeddingGemma 2 and Parakeet via Ollama. Every model runs on your own PC.",
+   "url": "https://github.com/FOSSiNtellect/foresight-wing",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-25T12:56:42Z",
+   "archived": false,
+   "language": "Python"
+  },
   {
    "name": "FOSSiNtellect",
    "description": "The FOSSiNtellect: a newspaper-style profile, reprinted every week by GitHub Actions",
    "url": "https://github.com/FOSSiNtellect/FOSSiNtellect",
    "stars": 0,
    "forks": 0,
-   "pushed": "2026-10-24T12:14:18Z",
+   "pushed": "2026-10-24T12:44:18Z",
    "archived": false,
    "language": "Python"
   }
